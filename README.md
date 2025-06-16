@@ -31,7 +31,7 @@
 
 2.  **创建Issue并提交回答**：
     -   点击您选择的题目对应的Issue链接。
-    -   在Issue页面，点击 `New issue`，选择 `技术6月招募` 模板。
+    -   在Issue页面，点击 `Create sub-issue`，选择 `技术招募` 模板。
     -   填写Issue标题。
     -   在Issue内容中，根据模板要求，详细阐述您的回答。
     -   提交Issue。
