@@ -26,11 +26,11 @@
 
 1.  **浏览开源题目**：
     -   访问我们的GitHub仓库：[https://github.com/timebanknow/organizational-building]
-    -   在`Issues`列表中，查找带有 `challenge-technology` 标签的开源问题。这些问题是为技术能力挑战者准备的。
-    -   仔细阅读问题描述，选择一个您感兴趣且有能力完成的问题。
+    -   在`Issues`列表中，查找带有 `challenge-technology` 标签的开源题目。这些题目是为技术能力挑战者准备的。
+    -   仔细阅读题目描述，选择一个您感兴趣且有能力完成的题目。
 
 2.  **创建Issue并提交回答**：
-    -   点击您选择的问题对应的Issue链接。
+    -   点击您选择的题目对应的Issue链接。
     -   在Issue页面，点击 `Create sub-issue`，选择 `技术招募` 模板。
     -   填写Issue标题。
     -   在Issue内容中，根据模板要求阐述您的回答。
