@@ -76,7 +76,7 @@
 
 4.  **结果通知**：
     -   所有提交Issue的人员，请加入我们微信群
-        ![飞书20250612-162628](https://github.com/user-attachments/assets/824cc8dd-66ad-42ec-a624-2c38ac3d2a36)
+        ![Uploading 1246b7041c2e1c62c4cd1d3c61f81d5.jpg…]()
     -   评审结果将通过GitHub的Issue评论或我们指定的微信群（请留意您的邀请信息）进行通知。
     -   通过评审后，您将收到加入时间银行社群运营群的邀请。
 
