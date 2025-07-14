@@ -42,8 +42,7 @@
 
 4.  **结果通知**：
     -   所有提交Issue的人员，请加入我们微信群
-        ![微信群](https://github.com/user-attchments/assets/0bfcd5bf-6c69-4ee7-9d00-f6b546e8855a)
-
+        ![1246b7041c2e1c62c4cd1d3c61f81d5](https://github.com/user-attachments/assets/06bbc6c6-d33e-4ed3-a563-aa6c20ee19b3)
     -   评审结果将通过GitHub的Issue评论或我们指定的微信群（请留意您的信息）进行通知。
     -   通过评审后，您将收到加入时间银行社群运营群的邀请。
 
@@ -76,7 +75,7 @@
 
 4.  **结果通知**：
     -   所有提交Issue的人员，请加入我们微信群
-        ![Uploading 1246b7041c2e1c62c4cd1d3c61f81d5.jpg…]()
+        ![1246b7041c2e1c62c4cd1d3c61f81d5](https://github.com/user-attachments/assets/9fdd0465-d5d9-4c48-8f71-52e8034497ad)
     -   评审结果将通过GitHub的Issue评论或我们指定的微信群（请留意您的邀请信息）进行通知。
     -   通过评审后，您将收到加入时间银行社群运营群的邀请。
 
